@@ -49,7 +49,7 @@ Q=(T&(~Q))|((~T)&Q);
  endmodule
 ```
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by:DHANUSH.M.D RegisterNumber:
+/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by:DHANUSH.M.D RegisterNumber:24900042
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
